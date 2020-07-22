@@ -27,7 +27,7 @@ export class _Blank extends React.Component {
     Toggle_9: true,
     Input_11:
       "bvh hgfgf hgfhgf hgfh hgf hgfhgf gfsesas dsresews weqdwes edqes efw4rgfw4 rtg35tg regrgw",
-    Input_31: "",
+    Input_31: "dfvdbvdfb dsg fgbbfgb",
     Toggle_18: true,
     Input_5: ""
   }
@@ -257,7 +257,7 @@ export class _Blank extends React.Component {
             editable={true}
             textStyle={{ fontSize: 20, color: "#000000" }}
             style={{
-              width: "100%",
+              width: 100,
               marginLeft: 0,
               marginRight: 0,
               marginTop: 5,
@@ -266,9 +266,9 @@ export class _Blank extends React.Component {
               paddingRight: 5,
               paddingTop: 5,
               paddingBottom: 5,
-              overflow: "visible",
+              overflow: "scroll",
               textAlign: "left",
-              verticalAlign: "baseline",
+              verticalAlign: "top",
               fontSize: 20,
               color: "#000000",
               backgroundColor: "#ffffff",
